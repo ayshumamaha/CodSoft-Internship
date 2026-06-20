@@ -1,40 +1,43 @@
-# Password Generator
+# Contact Book
 
 ## Overview
 
-The Password Generator is a Python-based application that creates strong and secure passwords based on user-defined requirements. The program generates random passwords using a combination of uppercase letters, lowercase letters, numbers, and special characters.
+The Contact Book is a Python-based contact management application that allows users to store, search, update, and delete contact information efficiently. The system helps organize personal and professional contacts through a simple command-line interface.
 
 ## Features
 
-* Secure random password generation
-* Custom password length selection
-* Inclusion of letters, numbers, and symbols
-* User-friendly command-line interface
-* Strong password creation
+* Add new contacts
+* Search contacts
+* Update contact information
+* Delete contacts
+* View all saved contacts
+* Contact management system
 
 ## Technologies Used
 
 * Python 3.x
-* Random Module
-* String Module
+* Dictionaries
+* Lists
+* Functions
+* File Handling (Optional)
 
 ## How to Run
 
 1. Install Python 3.x.
 2. Run the Python script.
-3. Enter the desired password length.
-4. View the generated password.
+3. Select operations from the menu.
+4. Manage contact information.
 
 ## Applications
 
-* Online account security
-* Password management
-* Authentication systems
-* Cybersecurity practices
+* Personal contact management
+* Business contact organization
+* Customer information storage
+* Digital address books
 
 ## Learning Outcomes
 
-* Randomization techniques
-* String manipulation
-* User input handling
-* Secure programming concepts
+* Data structure implementation
+* CRUD operations
+* User interaction design
+* Python application development
